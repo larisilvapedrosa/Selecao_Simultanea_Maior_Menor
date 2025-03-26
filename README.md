@@ -115,3 +115,5 @@ Então
 Com isso podemos concluir que tanto pela contagem de operações quanto pelo Teorema Mestre, o custo do algoritmo MaxMin Select é linear, 
 𝑂(𝑛).
   
+## Diagrama:
+![Diagrama](images/diagrama.png)
