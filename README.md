@@ -69,7 +69,7 @@ Implementação do algoritmo de seleção simultânea do maior e do menor elemen
    ```
 
   ### Exemplo Saída execução
-   ![SaidaExec](Images/SaidaExec.png)
+   ![SaidaExec](images/SaidaExec.png)
 
   ## Relatório Técnico
   ### Análise da Complexidade Ciclomática
